@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Alexnet
-Autor: Raquel Pinheiro da Costa 
+""" Implementação de uma Rede Neural Convolucional com Arquitetura Alexnet
 Projeto: Trabalho de Conclusão do Curso de Ciência da Computação do Instituto Federal de Brasília.
 """
 from tensorflow import keras
