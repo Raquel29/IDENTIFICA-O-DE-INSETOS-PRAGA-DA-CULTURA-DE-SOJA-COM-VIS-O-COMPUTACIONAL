@@ -1,4 +1,8 @@
-
+# -*- coding: utf-8 -*-
+"""Alexnet
+Autor: Raquel Pinheiro da Costa 
+Projeto: Trabalho de Conclusão do Curso de Ciência da Computação do Instituto Federal de Brasília.
+"""
 from tensorflow import keras
 import numpy as np
 import os, sys
