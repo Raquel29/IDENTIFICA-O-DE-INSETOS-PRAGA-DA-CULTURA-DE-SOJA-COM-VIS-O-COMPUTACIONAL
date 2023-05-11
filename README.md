@@ -1,6 +1,6 @@
 # IDENTIFIÇÃO DE INSETOS PRAGA DA CULTURA DE SOJA COM VISÃO COMPUTACIONAL
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge)
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Badge Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Trabalho de Conclusão de Curso, implementação de uma rede neural convolucional (Alexnet) para indentificação de insetos-praga da cultuta da soja. No arquivo TCC_Raquel_Pinheiro- final.pdf  é poss  encontrar toda a descrição do trabalho realizado.
 
